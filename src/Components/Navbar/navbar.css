@@ -1,0 +1,18 @@
+.navbarcha{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span{
+    padding: 0px 20px;
+}
+.navbar__title{
+    font-size: 20px;
+    opacity: 50%;
+}
+.navbar__text{
+    font-size: 25px;
+}
+.telcha{
+    width: 9%;
+}

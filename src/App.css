@@ -1,0 +1,58 @@
+
+
+
+*{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 5px 0px;
+}.header__link{
+  text-decoration: none;
+  padding: 0px 30px;
+  font-size: 20px;
+}
+.header__list{
+  list-style: none;
+  display: flex;
+}
+.header__container{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.header__left{
+  display: flex;
+  align-items: center;
+}
+.header__right{
+  display: flex;
+  text-align: center;
+  align-items: center;
+
+}
+.header__title{
+  padding: 0px 20px;
+}
+.hero__container{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
+}
+.hero__span{
+  display: flex;
+  align-items: center;
+}
+.herocha{
+  width: 40%;
+  height: 40%;
+}
+.hero__box{
+  width: 45%;
+}
+.hero__title{
+  font-size: 45px;
+}
+.hero__text{
+  font-size: 20px;
+}
