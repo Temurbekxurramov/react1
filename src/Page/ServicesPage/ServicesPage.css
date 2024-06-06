@@ -1,0 +1,31 @@
+.services__title{
+
+   font-size: 40px;
+}
+.services__text{
+
+    font-size: 30px;
+}
+.services__span{
+    display: flex;
+}
+.services__list{
+    display: flex;
+    list-style: none;
+    width: 95%;
+    padding-top: 70px;
+    padding: 30px 0px;
+}
+.services__item{
+    width: 30%;
+    
+}
+.services__container{
+    padding-top: 120px;
+}
+.services__title_name{
+    font-size: 25px;
+}
+.services__text_name{
+    font-size: 20px;
+}

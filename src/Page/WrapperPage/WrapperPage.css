@@ -1,0 +1,26 @@
+.wrapper__list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    width: 90%;
+}
+.wrapper__container{
+    padding-top: 70px;
+}
+.wrapper__item{
+    width: 20%;
+}
+.wrapper__title{
+    font-size: 25px;
+    opacity: 80%;
+
+}
+.wrapper__title_name{
+    font-size: 20px;
+    opacity: 80%;
+}
+.wrapper__text{
+    font-size: 20px;
+padding: 20px 0px;
+opacity: 50%;
+}

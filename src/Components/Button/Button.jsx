@@ -1,13 +1,9 @@
-
-
+import React from 'react'
 import './Button.css'
-
-function Button() {
-
-
+const Button = () => {
   return (
     <>
-        <button className='button'>get a free quote</button>
+              <button className='button'>get a free quote</button>
     </>
   )
 }

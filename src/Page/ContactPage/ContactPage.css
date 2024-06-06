@@ -1,0 +1,38 @@
+.contact__title{
+    text-align: left;
+    font-size: 40px;
+}
+.contact__left{
+    width: 40%;
+}
+.contact__container{
+    display: flex;
+   margin: 20px 30px;
+   align-items:center
+}
+.contact__right{
+    width: 35%;
+    text-align: center;
+  
+    list-style: none;
+}
+.contact__title_inform{
+   font-size: 15px;
+    list-style: none;
+}
+.contact__text{
+    font-size: 25px;
+}
+.contact__text_name{
+    font-size: 20px;
+}
+.contact__title_name{
+   font-size: 20px;
+}
+.contact__list{
+    list-style: none;
+  
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}

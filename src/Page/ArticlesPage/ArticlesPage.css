@@ -1,0 +1,23 @@
+.articles__container{
+    display: flex;
+    padding-top: 30px;
+    align-items: center;
+    background-color: rgb(45, 45, 94);
+    width: 90%;
+   
+}
+.articles__box{
+    width: 35%;
+}
+.articles__title{
+    font-size: 20px;
+    color: white;
+}
+.articles__title_name{
+    font-size: 40px;
+    color: white;
+}
+.articles__text{
+    font-size: 20px;
+    color: white;
+}
